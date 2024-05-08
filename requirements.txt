@@ -11,3 +11,5 @@ omegaconf
 einops
 imageio
 ftfy
+opencv-python
+ipython
