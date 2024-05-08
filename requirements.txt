@@ -9,7 +9,9 @@ tensorboard
 modelcards
 omegaconf
 einops
-imageio
+imageio[ffmpeg]
 ftfy
 opencv-python
 ipython
+-i https://download.pytorch.org/whl/cu121
+xformers
